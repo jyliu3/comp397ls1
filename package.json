@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "createjs": "^1.0.1",
+    "easejs": "^0.2.9",
+    "preloadjs": "^1.0.1",
+    "soundjs": "^1.0.1",
+    "tweenjs": "^1.0.2"
+  }
+}
